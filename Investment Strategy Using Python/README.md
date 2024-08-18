@@ -47,7 +47,6 @@ For detailed implementation and results, refer to the [Jupyter notebook](https:/
 
 This project offers a practical approach to financial planning and investment strategy evaluation, enabling users to test various scenarios and assess their long-term viability.
 
-## Features
 
 
 
